@@ -1,5 +1,3 @@
-# Improving-Quality-of-Low-Light-Images
-Improving Quality of Low Light Images 
 # Image Quality Enhancement for Low-Light Images
 
 ## Overview
