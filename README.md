@@ -16,9 +16,6 @@ This project focuses on improving the image quality of low-light images using a 
     ```bash
     git clone https://github.com/anandr07/Improving-Quality-of-Low-Light-Images
     ```
-## Data Preparation
-
-Ensure that your high-quality and low-quality images are stored in separate directories (`InputPath` and `InputPath_2`, respectively). The `PreProcessData` and `PreProcessData_low` functions are responsible for loading and processing the training data.
 
 ## Model Architecture
 
