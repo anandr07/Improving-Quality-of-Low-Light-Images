@@ -16,12 +16,6 @@ This project focuses on improving the image quality of low-light images using a 
     ```bash
     git clone https://github.com/anandr07/Improving-Quality-of-Low-Light-Images
     ```
-
-**Run the provided script:**
-
-    ```bash
-    python image_enhancer.py
-    ```
 ## Data Preparation
 
 Ensure that your high-quality and low-quality images are stored in separate directories (`InputPath` and `InputPath_2`, respectively). The `PreProcessData` and `PreProcessData_low` functions are responsible for loading and processing the training data.
@@ -29,14 +23,6 @@ Ensure that your high-quality and low-quality images are stored in separate dire
 ## Model Architecture
 
 The image enhancement model is based on a custom-designed convolutional neural network. The architecture includes multiple convolutional layers, skip connections, and final convolutional layers to produce the enhanced image.
-
-## Training
-
-The model is trained using the `GenerateInputs` function, which generates batches of training data. Adjust the parameters such as `epochs`, `steps_per_epoch`, and others in the `Model_Enhancer.fit_generator` function to suit your specific training requirements.
-
-## Testing
-
-To test the trained model, use the `ExtractTestInput` function to prepare a test image. The script then loads the trained model and generates enhanced images for comparison with ground truth and low-light images.
 
 ## Example Output
 
