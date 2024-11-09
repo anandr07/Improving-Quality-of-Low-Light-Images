@@ -28,13 +28,6 @@ The final section of the script visualizes the results by displaying the ground 
 ![ImageEnhancement](https://github.com/anandr07/Improving-Quality-of-Low-Light-Images/assets/66896800/d9d87807-0725-4685-a288-7ae32f5037a6)
 
 
-## Image Filters:
-### Original Image:
-![image](https://github.com/anandr07/Improving-Quality-of-Low-Light-Images/assets/66896800/5651e80b-7bca-4561-89dc-9fc23e3ed319)
-
-### Black and White Image:
-![image](https://github.com/anandr07/Improving-Quality-of-Low-Light-Images/assets/66896800/46054da2-415f-45d8-afb5-1d2a8b8c7030)
-
 ### Custom Filters:
 ![image](https://github.com/anandr07/Improving-Quality-of-Low-Light-Images/assets/66896800/fa36e0aa-c5ad-49ef-93f0-0a11eea61d1a)
 
